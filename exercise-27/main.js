@@ -6,7 +6,7 @@ function dire(){
         setTimeout(()=>{
             const ms= false;
             if (ms) {
-                return resolve ("waad xasan atahay")
+                 resolve ({id: 1212, name:})
                 
             }
             else{
